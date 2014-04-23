@@ -3,6 +3,7 @@
 #################
 
 OP*.*
+*.frm
 *.frx
 SourceCode/References.txt
 
