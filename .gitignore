@@ -2,10 +2,7 @@
 ## Promotool
 #################
 
-LocPrcCh.accdb
-LocRefCh.accdb
-PromoTool*.*
-Pseudo_Remote/
+OP*.*
 *.frx
 SourceCode/References.txt
 
