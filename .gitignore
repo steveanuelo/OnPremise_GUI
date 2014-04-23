@@ -2,7 +2,9 @@
 ## Promotool
 #################
 
+# Exclude files with 'OP' prefix
 OP*.*
+
 *.frm
 *.frx
 SourceCode/References.txt
